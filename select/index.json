@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "base_track": "Bubble（feat. Uta）",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-30T15:24:59.139927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bubble feat.Uta",
+      "artist": "Eve feat. Uta",
+      "has_synced": true,
+      "path": "select/01_Bubble_feat.Uta_Eve_feat._Uta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bubble (feat. Uta)",
+      "artist": "Eve/Uta",
+      "has_synced": true,
+      "path": "select/02_Bubble_(feat._Uta)_Eve_Uta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bubble feat. Uta",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_Bubble_feat._Uta_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bubble feat.Uta",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_Bubble_feat.Uta_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bubble (feat. Uta)",
+      "artist": "Eve\u0000UTA",
+      "has_synced": true,
+      "path": "select/05_Bubble_(feat._Uta)_Eve\u0000UTA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bubble feat.Uta - MV Eve",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/06_Bubble_feat.Uta_-_MV_Eve_Eve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bubble (feat. Uta)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_Bubble_(feat._Uta)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bubble Feat.Uta",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_Bubble_Feat.Uta_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bubble feat.Uta",
+      "artist": "Eve/Uta",
+      "has_synced": true,
+      "path": "select/09_Bubble_feat.Uta_Eve_Uta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bubble (feat. Farenheit)",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/10_Bubble_(feat._Farenheit)_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bubble (feat. New Kidz)",
+      "artist": "Chase, Status, New Kidz",
+      "has_synced": true,
+      "path": "select/11_Bubble_(feat._New_Kidz)_Chase,_Status,_New_Kidz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BUBBLE (feat. Ty Dolla $ign)",
+      "artist": "24hrs feat. Ty Dolla $ign",
+      "has_synced": false,
+      "path": "select/12_BUBBLE_(feat._Ty_Dolla_$ign)_24hrs_feat._Ty_Dolla_$ign.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bubble (feat. Ty Dolla $ign)",
+      "artist": "24hrs",
+      "has_synced": false,
+      "path": "select/13_Bubble_(feat._Ty_Dolla_$ign)_24hrs.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BUBBLE (feat. thasup & Salmo)",
+      "artist": "Takagi & Ketra feat. thasup & Salmo",
+      "has_synced": true,
+      "path": "select/14_BUBBLE_(feat._thasup_&_Salmo)_Takagi_&_Ketra_feat._thasup_&_Salmo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BUBBLE (feat. thasup & Salmo)",
+      "artist": "Takagi & Ketra, thasup, Salmo, thasup, Salmo",
+      "has_synced": true,
+      "path": "select/15_BUBBLE_(feat._thasup_&_Salmo)_Takagi_&_Ketra,_thasup,_Salmo,_thasup,_Salmo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Living In A Bubble (feat. Papa Winnie)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/16_Living_In_A_Bubble_(feat._Papa_Winnie)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bubble (feat. Fahrenheit)",
+      "artist": "Sean Paul feat. Farenheit",
+      "has_synced": false,
+      "path": "select/17_Bubble_(feat._Fahrenheit)_Sean_Paul_feat._Farenheit.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Buss a Bubble (feat. Sotto Bless, Looga Man, Ras Ajai & Chi Ching Ching)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/18_Buss_a_Bubble_(feat._Sotto_Bless,_Looga_Man,_Ras_Ajai_&_Chi_Ching_Ching)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Pop Bubble (feat. Jamey Jasta)",
+      "artist": "Body Count",
+      "has_synced": true,
+      "path": "select/19_Pop_Bubble_(feat._Jamey_Jasta)_Body_Count.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Bubble (feat. New Kidz)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/20_Bubble_(feat._New_Kidz)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Bubble 。・°(⌒-⌒; ) feat. Deko",
+      "artist": "Yameii Online",
+      "has_synced": true,
+      "path": "select/21_Bubble_。・°(⌒-⌒;_)_feat._Deko_Yameii_Online.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Bubble (feat. Fahrenheit)",
+      "artist": "Sean Paul/Fahrenheit",
+      "has_synced": true,
+      "path": "select/22_Bubble_(feat._Fahrenheit)_Sean_Paul_Fahrenheit.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "BUBBLE (feat. thasup & Salmo)",
+      "artist": "Takagi\r\nKetra",
+      "has_synced": true,
+      "path": "select/23_BUBBLE_(feat._thasup_&_Salmo)_Takagi_Ketra.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Bubble (feat. Fahrenheit)",
+      "artist": "Fahrenheit",
+      "has_synced": true,
+      "path": "select/24_Bubble_(feat._Fahrenheit)_Fahrenheit.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Bubble (feat. Fahrenheit)",
+      "artist": "Sean Paul, Farenheit",
+      "has_synced": false,
+      "path": "select/25_Bubble_(feat._Fahrenheit)_Sean_Paul,_Farenheit.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Bubble (Feat. Fahrenheit)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/26_Bubble_(Feat._Fahrenheit)_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bubble feat.Uta",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_Bubble_feat.Uta_Eve.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bubble（feat. Uta）",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/localdb_01_Bubble(feat._Uta)_Eve.lrc",
+      "repo_name": "Vao7eDMtrro"
+    }
+  ]
+}
